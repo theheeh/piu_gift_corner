@@ -1,0 +1,13 @@
+{
+  "name": "PIU GIFT CORNER",
+  "description": "Premium Gift Shop - পিয়ু গিফট কর্নার",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI Recommendations",
+    "Product Personalization",
+    "Order Tracking"
+  ]
+}
